@@ -1,7 +1,8 @@
 # calculadora
-meu primeiro app
+Meu primeiro app
 
 aprendendo react native
-Objetivo:
-    - Introdução aos componentes;
-    - Primeiro contato com react;
+
+* Objetivo:
+    * Introdução aos componentes;
+    * Primeiro contato com react;
